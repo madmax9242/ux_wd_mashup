@@ -1,0 +1,36 @@
+.my-nav {
+	background-color: lime;
+	min-height: 130px;
+}
+.side-a {
+	background-color: red;
+	min-height: 500px;
+}
+.side-b	{
+	background-color: red;
+	min-height: 500px;
+}
+.level {
+	min-height:250px;
+}
+.floor {
+	background-color: blue;
+	min-height: 75px;
+}
+.floor-selector {
+	max-height: 500px;
+	overflow: scroll;
+}
+body {
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+.my-foot {
+	background-color: purple;
+	min-height: 100px;
+}
+div {
+	padding: 1px;
+	padding-color: #fff;
+}
