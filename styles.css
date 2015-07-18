@@ -1,6 +1,6 @@
 .my-nav {
 	background-color: lime;
-	min-height: 130px;
+	min-height: 100px;
 }
 .side-a {
 	background-color: red;
@@ -23,12 +23,12 @@
 }
 body {
 	color: white;
-	font-size: 20px;
+	font-size: 65px;
 	text-align: center;
 }
 .my-foot {
 	background-color: purple;
-	min-height: 100px;
+	min-height: 140px;
 }
 div {
 	padding: 1px;
